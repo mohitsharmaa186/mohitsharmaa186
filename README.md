@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitsharmaa186
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Cloud Computing
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on AWS cloud Architecture role
 - 📫 How to reach me 83193793087
 
 <!---
