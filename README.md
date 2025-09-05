@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on AWS cloud Architecture role
-- 📫 How to reach me 83193793087
+- 📫 How to reach me mjhh1786@gmail.com
 
 <!---
 mohitsharmaa186/mohitsharmaa186 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
